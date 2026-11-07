@@ -1,0 +1,13 @@
+{
+  "name": "dsh-miku-stage",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild stage.js --bundle --format=esm --minify --outfile=../lib/assets/miku-stage.js && cp node_modules/babylon-mmd/esm/Runtime/Optimized/wasm/spr/index_bg.wasm ../lib/assets/index_bg.wasm"
+  },
+  "devDependencies": {
+    "@babylonjs/core": "9.31.0",
+    "babylon-mmd": "1.3.0",
+    "esbuild": "0.25.10"
+  }
+}
