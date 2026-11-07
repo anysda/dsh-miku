@@ -1,0 +1,11 @@
+wavefile.vmd - WAVEFILE - https://github.com/mrdoob/three.js/tree/dev/examples/models/mmd/vmds
+tokinokakera.vmd - Toki no Kakera (Dream Club) - https://raw.githubusercontent.com/takahirox/mmd-viewer-js/master/vmd/tokino_kakera.vmd
+glassbead.vmd - Glass Bead (GFriend) - https://raw.githubusercontent.com/arith3/WebGLKizunaAi/master/mmd/gbmotion.vmd
+bestofme.vmd - Best of Me (BTS) - https://raw.githubusercontent.com/Ry3yr/SampleWebMMD/main/vmd/bts-bestofme.vmd
+drunkbutterfly.vmd - 酒醉的蝴蝶 (Drunk Butterfly) - https://raw.githubusercontent.com/jakcm/vrm-vmd-mobile/main/vmd/兰若酒醉的蝴蝶mmd数据.vmd
+sos.vmd - SOS - https://raw.githubusercontent.com/Carlutic/motions8/main/tracks/SOS/SOS_Motion.vmd
+xiaoluluanzhuang.vmd - 小鹿乱撞 - https://raw.githubusercontent.com/Carlutic/motions8/main/tracks/小鹿乱撞/小鹿乱撞 动作.vmd
+lookingahead.vmd - 越南鼓点 / Looking Ahead - https://raw.githubusercontent.com/Carlutic/motions8/main/tracks/越南鼓点/lookingahead.vmd
+queencard.vmd - Queencard (G)I-DLE, short version - https://raw.githubusercontent.com/Carlutic/motions8/main/tracks/QueenCard（短版）/queencard motion by c卡萨.vmd
+yoohoo.vmd - YooHoo (Mstar game dance) - https://raw.githubusercontent.com/Carlutic/motions8/main/tracks/mstar-yoohoo/model.vmd
+bboombboom.vmd - BBoom BBoom (PUBG emote dance) - https://raw.githubusercontent.com/Carlutic/motions8/main/tracks/pubg-bboom-bboom/model.vmd
