@@ -13,6 +13,14 @@ repository address:
 https://github.com/anysda/dsh-miku
 ```
 
+## Usage
+
+Drag Miku by her body to move her. A short click opens the usage window with
+DeepSeek balance and Kimi quota; dragging does not open it. The window refreshes
+only while open and closes on another short click, the close button, or Escape.
+It uses `DEEPSEEK_API_KEY` and `KIMI_CODING_API_KEY` from the DSH credentials
+service, environment, or `~/.dsh/.credentials.yaml`.
+
 ## License
 
 The code is under the [PolyForm Strict License 1.0.0](LICENSE): personal,
